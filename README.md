@@ -6,9 +6,9 @@
 
 ### Introdução
 
-Nesse repositório será documentado os passos iniciais para acender e apagar um LED utilizando uma placa Arduino.Um projeto simples, mas essencial para iniciar com arduiono.
+Nesse repositório será documentado os passos iniciais para acender e apagar um LED utilizando uma placa Arduino. Um projeto simples, mas essencial para iniciar com arduiono.
 
-Para iniciar não estaremos utilizando um Arduíno físico, e sim uma ferramenta online que podemos fazer a simulação das conexões e também escrever o código.
+Para iniciar não estaremos utilizando um Arduino físico, e sim uma ferramenta online que podemos fazer a simulação das conexões e também escrever o código.
 
 ### Pré-Requisitos Digital
 
