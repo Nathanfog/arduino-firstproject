@@ -17,3 +17,9 @@ Conta no https://www.tinkercad.com/
 ### Pré-Requisitos Físico
 
 
+
+### 1. 
+
+Para acender um LED precisamos associar uma das portas do arduino
+
+![captura](https://github.com/user-attachments/assets/e8f0d53e-1462-43a3-be06-343140fa11ac)
