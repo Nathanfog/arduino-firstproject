@@ -1,4 +1,4 @@
-# arduino-firstproject
+![image](https://github.com/user-attachments/assets/c331ea0d-a53a-4777-a0bd-a3c495347a2f)# arduino-firstproject
 
 # **[Arduino Primeiro Projeto: Acendendo um Led](README.md)**
 
@@ -25,6 +25,8 @@ Portas Analógicas - utiliza de 0 a 1023
 Para esse projeto usaremos as portas digitais.
 
 
+
+
 ### 1. 
 
 Precisamos associar uma porta do arduino ao LED, ou seja, conectar o led a porta
@@ -46,9 +48,27 @@ void loop()
 
 }
 
-
-
 ![captura](https://github.com/user-attachments/assets/e8f0d53e-1462-43a3-be06-343140fa11ac)
+
+
+
+### 2. 
+
+Catodo/Catódica = Vai no negativo / GND
+
+Anodo = Vaino positivo / porta digital
+
+O Arduino trabalha em 5, e o led em 3 3.5
+
+cuidar para nao cuidar o led
+
+usar outro componente eletronico, resistor
+Selecionar o resistor correto
+Como fazer o calculo correto
+
+Devemos fazer a ligação de cabos como essa
+
+
 
 
 
